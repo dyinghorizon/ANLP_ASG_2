@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Project specific - exclude from Docker image
+*.pdf
+julius-caesar_PDF_FolgerShakespeare.pdf
+A2_cleaning.py
+A2_indexing.py
+
+# Logs
+*.log
+
+# Testing
+pytest_cache/
+.pytest_cache/
