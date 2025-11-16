@@ -78,7 +78,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="GOOGLE_API_KEY" value="AIzaSyCSKinIos_9fuX4O0pFRtVWzVB9kK6SUAk" />
+        <env name="GOOGLE_API_KEY" value="" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../../../../Elimentary/fastApiProject/.venv/Scripts/python.exe" />
       <option name="SDK_NAME" value="Python 3.12 (fastApiProject)" />
